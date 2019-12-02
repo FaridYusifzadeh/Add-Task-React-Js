@@ -1,0 +1,10 @@
+body {
+    padding: 50px;
+    background-color: #7D71FF;
+    font-family: sans-serif;
+    }
+
+  #task_container{
+      display: flex;
+      justify-content: center;
+  }
